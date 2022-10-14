@@ -11,7 +11,7 @@ Instructions for deployment:
 ### Yoshi: SuperMarioWorld (2D)
 <img src="https://user-images.githubusercontent.com/88553229/195896061-498bf54b-e871-470a-a170-7ce772ff50f4.png" width=25% height=25%>
 
-### BlackMage: Vivi from FinalFantasy 9 (2D)
+### BlackMage: Vivi from FinalFantasy IX (2D)
 <img src="https://user-images.githubusercontent.com/88553229/195896221-7bdcdfa5-f19a-4d1c-8760-fa8faa3df763.png" width=55% height=55%>
 
 ### The Robot (2D)

@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tarea1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  yoshi.cpp
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\yoshi\Tarea1\yoshi.cpp(17,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\yoshi\Tarea1\yoshi.cpp(18,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\yoshi\Tarea1\yoshi.cpp(26,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\yoshi\Tarea1\yoshi.cpp(27,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tarea1.vcxproj -> Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\yoshi\x64\Debug\yoshi.exe

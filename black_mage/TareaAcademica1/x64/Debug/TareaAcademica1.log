@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (TareaAcademica1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  blackMage.cpp
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(203,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(206,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(207,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(266,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(265,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(264,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(263,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(269,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(270,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(297,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(296,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(295,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(294,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(300,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(301,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1524,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1523,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1522,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1521,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1527,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1528,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\TareaAcademica1\blackMage.cpp(1796,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TareaAcademica1.vcxproj -> Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\black_mage\x64\Debug\blackMage.exe

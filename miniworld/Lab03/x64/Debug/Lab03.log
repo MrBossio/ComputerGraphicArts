@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  miniworld.cpp
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(13,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(15,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(40,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(42,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(390,54): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(435,18): warning C4305: '+=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(438,18): warning C4305: '-=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(441,15): warning C4305: '-=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(442,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(443,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(447,15): warning C4305: '+=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(448,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\Lab03\miniworld.cpp(449,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab03.vcxproj -> Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\miniworld\x64\Debug\miniworld.exe

@@ -1,0 +1,31 @@
+﻿  pokeball.cpp
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(26,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(39,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(38,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(37,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(42,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(43,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(51,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(64,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(63,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(62,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(67,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(68,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(76,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(90,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(89,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(88,17): warning C4244: 'argument': conversion from 'double' to 'GLubyte', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(93,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(94,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(106,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(107,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(116,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(119,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(120,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(126,14): warning C4305: '=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(129,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(130,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(136,13): warning C4305: '=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(140,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\TerceraClasePokeball\pokeball.cpp(141,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TerceraClasePokeball.vcxproj -> Z:\Google_Drive_2\2022-2\GraficosEnComputacion\Code\Computer_Graphics_Arts\pokeball\x64\Debug\pokeball.exe

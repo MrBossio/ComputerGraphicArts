@@ -4,7 +4,7 @@ Repository containing graphics developed with C++ and the GLUT OpenGL library.<b
 Everything is C++.<br>
 Instructions for deployment:
 
-#### Download repo -> Open a subfolder -> Open solution -> Run
+#### Download repo -> Open a subfolder -> Open solution with Visual Studio 2022 -> Run
 
 ## Proyects in repo:
 

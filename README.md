@@ -1,9 +1,9 @@
 # ComputerGraphicArts
-2D and 3D graphic arts, C++ with openGL GLUT library
-
-Repository containing graphics developed with C++ and the GLUT OpenGL library.
-Everything is C++.
+2D and 3D graphic arts, C++ with openGL GLUT library<br>
+Repository containing graphics developed with C++ and the GLUT OpenGL library.<br>
+Everything is C++.<br>
 Instructions for deployment:
+
 #### Download folder -> Open a subfolder -> Open solution -> Run
 
 ## Proyects in repo:

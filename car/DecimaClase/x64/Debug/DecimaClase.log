@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DecimaClase.vcxproj, DecimoPrimeraClase.vcxproj, Escena1a.vcxproj, ExamenFinal01.vcxproj, Lab05.vcxproj, PlantillaAnim.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(14,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(24,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(51,43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(52,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(53,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(75,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(76,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(77,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(647,55): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(703,17): warning C4305: '+=': truncation from 'double' to 'float'
+Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\DecimaClase\Source.cpp(706,17): warning C4305: '-=': truncation from 'double' to 'float'
+  RgbImage.cpp
+  Generating Code...
+  DecimaClase.vcxproj -> Z:\Google_Drive_2\GitHubRepos\ComputerGraphicArts\car\x64\Debug\Car.exe

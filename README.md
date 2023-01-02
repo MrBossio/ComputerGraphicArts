@@ -26,3 +26,7 @@ Instructions for deployment:
 ### Miniworld (3D)
 <img src="https://user-images.githubusercontent.com/88553229/195897906-2c691943-b6af-4562-a2f7-093c9eb1a8b9.png" width=45% height=45%>
 
+### Mario Scene 1 (Animated 3D)
+<img src="https://user-images.githubusercontent.com/88553229/210198997-16d0a5f7-a7f2-4cd3-b217-941328cc97e0.png" width=65% height=65%>
+
+

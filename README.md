@@ -24,5 +24,6 @@ Instructions for deployment:
 <img src="https://user-images.githubusercontent.com/88553229/210198997-16d0a5f7-a7f2-4cd3-b217-941328cc97e0.png" width=85% height=85%>
 <img src="https://user-images.githubusercontent.com/88553229/210199095-d3b98eb1-1a47-4f9c-b725-66eaf0678677.png" width=85% height=85%>
 
+Clic on image to see video on Youtube
 [![Watch the video](https://user-images.githubusercontent.com/88553229/210200065-0d50b6a3-e9d2-4352-914e-bee7ef24345a.png)](https://youtu.be/teteg81gzxk)
 

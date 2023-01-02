@@ -27,3 +27,13 @@ Instructions for deployment:
 Clic on image to see video on Youtube
 [![Watch the video](https://user-images.githubusercontent.com/88553229/210200065-0d50b6a3-e9d2-4352-914e-bee7ef24345a.png)](https://youtu.be/teteg81gzxk)
 
+### The Walking Robot (Interactive 3D)
+<img src="https://user-images.githubusercontent.com/88553229/210200442-e453e517-b3f5-4fc0-a90d-780ac5a11b07.png" width=85% height=85%>
+
+Controls:
+- PageUp: rotate to left
+- PageDown: rotate to right
+- Arrow Keys: move camera
+- Home & End: move camera
+
+

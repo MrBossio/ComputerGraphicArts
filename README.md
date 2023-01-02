@@ -20,8 +20,9 @@ Instructions for deployment:
 ### Miniworld (3D)
 <img src="https://user-images.githubusercontent.com/88553229/195897906-2c691943-b6af-4562-a2f7-093c9eb1a8b9.png" width=45% height=45%>
 
-### Mario Scene 1 (Animated 3D)
+### Mario Scene 1 & 2 (Animated 3D)
 <img src="https://user-images.githubusercontent.com/88553229/210198997-16d0a5f7-a7f2-4cd3-b217-941328cc97e0.png" width=85% height=85%>
-
-### Mario Scene 2 (Animated 3D)
 <img src="https://user-images.githubusercontent.com/88553229/210199095-d3b98eb1-1a47-4f9c-b725-66eaf0678677.png" width=85% height=85%>
+
+[![Watch the video](https://user-images.githubusercontent.com/88553229/210200065-0d50b6a3-e9d2-4352-914e-bee7ef24345a.png)](https://youtu.be/teteg81gzxk)
+
